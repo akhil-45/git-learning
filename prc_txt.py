@@ -1,5 +1,5 @@
-sfile=input("Enter your Source file: ")
-dfile=input("Enter your destination file: ")
+sfile=input("Enter your Src file : ")
+dfile=input("Enter your dest file: ")
 sfo=open(sfile,'r')
 content=sfo.read()
 sfo.close()
